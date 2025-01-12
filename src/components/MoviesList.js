@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import { Link } from "react-router-dom";
 import axios from "axios";
 
-const API_KEY = process.env.REACT_APP_API_KEY;
+const API_KEY = "45a857c193f6302f2b5061c3b85e743"
 const BASE_URL = "https://api.themoviedb.org/3"
 const IMAGE_BASE = "https://image.tmdb.org/t/p/w500"
 
